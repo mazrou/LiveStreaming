@@ -1,4 +1,4 @@
-## Open Live for Android
+# Open Live for Android
 
 *English | [中文](README.zh.md)*
 
